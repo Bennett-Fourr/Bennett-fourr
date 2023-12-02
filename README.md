@@ -3,6 +3,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1136043373514469488)](https://discord.com/users/1136043373514469488)
 
 
+```
 ┌──(Bennett@linux)-[~]
 └─$ cat Bennett.py
 
@@ -17,4 +18,3 @@
 ┌──(Bennett@linux)-[~]
 └─$ echo "Hi"
 ```
-
