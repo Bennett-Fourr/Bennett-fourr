@@ -14,7 +14,6 @@
      self.youtube   = "https://youtube.com/@other_side"
      self.web       = "[https://bennettfourr.me/)"
 
-  
 ┌──(Bennett@linux)-[~]
 └─$ echo "Hi"
 ```
