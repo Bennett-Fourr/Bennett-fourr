@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Bennett</h1>
+<h1 align="center">Hi I'm Bennett</h1>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1136043373514469488)](https://discord.com/users/1136043373514469488)
 
